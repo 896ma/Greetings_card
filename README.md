@@ -1,1 +1,1 @@
-#  A javaScript Greetings_card that greets the u Good Morning
+#  A javaScript Greetings_card that greets the Good Morning
