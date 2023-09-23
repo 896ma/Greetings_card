@@ -1,1 +1,1 @@
-# Gree
+# Greetings
